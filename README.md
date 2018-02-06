@@ -2,7 +2,7 @@
 
 ### Installation
 
-*NPM*
+**NPM**
 
 ```bash
 npm install
@@ -12,7 +12,7 @@ npm install
 npm start
 ```
 
-*YARN*
+**YARN**
 
 ```bash
 yarn 
@@ -22,7 +22,7 @@ yarn
 yarn start
 ```
 
-*MIGRATION*
+**MIGRATION**
 
 ```bash
 # Don't forget to add your environment Variable
