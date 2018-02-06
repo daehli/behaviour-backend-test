@@ -1,20 +1,18 @@
 ## Backend Behaviour
 
-Simple Projet 
-
 ### Installation
 
-*`NPM`*
+*NPM*
 
 ```bash
-npm
+npm install
 
 # DB Migration
 
 npm start
 ```
 
-*`YARN`*
+*YARN*
 
 ```bash
 yarn 
@@ -24,7 +22,7 @@ yarn
 yarn start
 ```
 
-*`MIGRATION`*
+*MIGRATION*
 
 ```bash
 # Don't forget to add your environment Variable
